@@ -1,0 +1,12 @@
+Package: KERE
+Title:  Expectile Regression in Reproducing Kernel Hilbert Space 
+Version: 1.1.0
+Date: 2017-1-17
+Author: Yi Yang, Teng Zhang, Hui Zou
+Maintainer: Yi Yang <yi.yang6@mcgill.ca>
+Depends: methods
+Description: An efficient algorithm inspired by majorization-minimization principle for solving the entire solution path of a flexible nonparametric expectile regression estimator constructed in a reproducing kernel Hilbert space.
+License: GPL-2
+Packaged: 2017-01-17 18:53:12 UTC; yiyang
+Repository: CRAN
+Date/Publication: 2017-01-17 20:00:50
